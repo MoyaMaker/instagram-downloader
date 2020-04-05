@@ -1,0 +1,10 @@
+.posts {
+  display: flex;
+  flex-flow: row wrap;
+
+  margin-top: 1rem;
+}
+
+.posts__item {
+  width: 25%;
+}
